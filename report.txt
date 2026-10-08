@@ -1,0 +1,5 @@
+Line 5: Possible hardcoded password [CWE-798]
+Line 8: Dangerous eval() use [CWE-95]
+Line 10: Weak hashing algorithm [CWE-327]
+Line 12: Unsafe deserialization [CWE-502]
+Line 14: Possible command injection [CWE-78]
